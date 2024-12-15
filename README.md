@@ -1,4 +1,4 @@
 SteamWorks
 ==========
 
-Exposing SteamWorks functions to SourcePawn.
+SteamWorks functions making available for IOSoccer.
